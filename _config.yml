@@ -23,13 +23,15 @@ description: Hub of helpful links for staff.
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  Helpful Links: "help_links"
   Calculators:
     - Loan to Value: "http://deanattali.com/beautiful-jekyll/"
     - 25% Creditor: "http://www.markdowntutorial.com/"
     - 40% Creditor: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
-
+  Forms:
+    - IVA Transfer Form: ""
+    - Complaints Form: ""
+    
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
 avatar: "/img/avatar-icon.png"
