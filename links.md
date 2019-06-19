@@ -13,7 +13,7 @@ title: New Client Team Links
 - [Totally Money](https://www.totallymoney.com)
 - [ClearScore](https://www.clearscore.com/)
 
-###Check House Prices
+### Check House Prices
 - [Zoopla](https://www.zoopla.co.uk/house-prices/)
 - [RightMove](https://www.rightmove.co.uk/house-prices.html)
 
