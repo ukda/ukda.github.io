@@ -1,6 +1,6 @@
 ---
-layout: minimal
-title: About me
+layout: page
+title: Helpful Links
 subtitle: Why you'd want to go on a date with me
 ---
 
