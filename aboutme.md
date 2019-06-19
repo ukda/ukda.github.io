@@ -1,16 +1,24 @@
 ---
 layout: page
-title: Helpful Links
-subtitle: Why you'd want to go on a date with me
+title: New Client Team Links
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+###Links
+- [Dialler Login](https://ukdebtadvisors.cnx1.uk)
+- [Helpful Docs](https://docs.google.com/spreadsheets/d/15aqmL0Ru7xZvX9-U7ogZkK0jpjWo4HrAYUS6fa_ycWA/edit#gid=1076472476)
+- [Search the insolvency register](https://www.insolvencydirect.bis.gov.uk/eiir/IIRRegisterNameInput.asp?option=NAME&court=ALL)
+- [Find council by post code](https://www.gov.uk/pay-council-tax)
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+###Free Credit Report
+- [Totally Money](https://www.totallymoney.com)
+- [ClearScore](https://www.clearscore.com/)
 
-What else do you need?
+###Check House Prices
+- [Zoopla](https://www.zoopla.co.uk/house-prices/)
+- [RightMove](https://www.rightmove.co.uk/house-prices.html)
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+###Calculators
+- [Loan to Value](https://fredl286.github.io/index.html)
+- [25% Creditor](https://google.co.uk)
+- [40% Creditor](https://google.co.uk)
+- [90% Creditor](https://google.co.uk)
