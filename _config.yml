@@ -23,9 +23,9 @@ description: Hub of helpful links for staff.
 
 # List of links in the navigation bar
 navbar-links:
-  Helpful Links: "help_links"
-    - New Client Team
-    - Advisors / CRU   
+  Helpful Links: 
+    - New Client Team: "links/newclient"
+    - Advisors / CRU: "links/advisorscru" 
 #  Calculators:
 #    - Loan to Value: "https://fredl286.github.io/index.html"
 #    - 25% Creditor: "https://google.co.uk"
