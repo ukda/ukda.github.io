@@ -1,6 +1,7 @@
 ---
 layout: page
 title: New Client Team Links
+image: /img/debtfreedomlogo.jpg
 ---
 # New Client Team Helpful Links
 
