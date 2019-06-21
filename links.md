@@ -20,6 +20,6 @@ title: New Client Team Links
 
 ### Calculators
 - [Loan to Value](https://fredl286.github.io/index.html)
-- [25% Creditor](https://google.co.uk)
-- [40% Creditor](https://google.co.uk)
-- [90% Creditor](https://google.co.uk)
+- [25% Creditor (Not Done Yet)](https://google.co.uk)
+- [40% Creditor (Not Done Yet)](https://google.co.uk)
+- [90% Creditor (Not Done Yet)](https://google.co.uk)
